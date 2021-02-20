@@ -11,7 +11,8 @@ package uas.if1.pkg10119036.alfinurizkya.no2;
  * Nama     : ALFI NURIZKYA
  * Kelas    : IF-1
  * NIM      : 10119036
- * Deskripsi Program :
+ * Deskripsi Program : Menampilkan Saldo
+ * Hari/Tanggal : Sabtu, 20 Februari 2021
  */
 public class UASIF110119036ALFINURIZKYANO2 {
     public static void main(String[] args) {
